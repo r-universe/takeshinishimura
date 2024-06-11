@@ -5,3 +5,6 @@
 [submodule "fude"]
 	path = fude
 	url = https://github.com/takeshinishimura/fude
+[submodule "jstager"]
+	path = jstager
+	url = https://github.com/takeshinishimura/jstager
